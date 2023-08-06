@@ -1,0 +1,89 @@
+{
+    "MatchID": 63568,
+    "MatchDateTime": "2022-07-22T18:30:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4561,
+    "LeagueName": "2. Fußball-Bundesliga 2022/2023",
+    "MatchDateTimeUTC": "2022-07-22T16:30:00Z",
+    "Group": {
+        "GroupName": "2. Spieltag",
+        "GroupOrderID": 2,
+        "GroupID": 39848
+    },
+    "Team1": {
+        "TeamId": 118,
+        "TeamName": "SV Darmstadt 98",
+        "ShortName": "Darmstadt",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+        "TeamGroupName": null
+    },
+    "Team2": {
+        "TeamId": 119,
+        "TeamName": "SV Sandhausen",
+        "ShortName": "Sandhausen",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SV_Sandhausen.svg",
+        "TeamGroupName": null
+    },
+    "LastUpdateDateTime": "2022-07-22T22:18:24.45",
+    "MatchIsFinished": true,
+    "MatchResults": [
+        {
+            "ResultID": 98278,
+            "ResultName": "Endergebnis",
+            "PointsTeam1": 2,
+            "PointsTeam2": 1,
+            "ResultOrderID": 1,
+            "ResultTypeID": 2,
+            "ResultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+        },
+        {
+            "ResultID": 98279,
+            "ResultName": "Halbzeitergebnis",
+            "PointsTeam1": 1,
+            "PointsTeam2": 1,
+            "ResultOrderID": 2,
+            "ResultTypeID": 1,
+            "ResultDescription": "Halbzeitstand"
+        }
+    ],
+    "Goals": [
+        {
+            "GoalID": 94786,
+            "ScoreTeam1": 1,
+            "ScoreTeam2": 0,
+            "MatchMinute": 9,
+            "GoalGetterID": 18974,
+            "GoalGetterName": "B. Manu",
+            "IsPenalty": false,
+            "IsOwnGoal": false,
+            "IsOvertime": false,
+            "Comment": null
+        },
+        {
+            "GoalID": 94790,
+            "ScoreTeam1": 1,
+            "ScoreTeam2": 1,
+            "MatchMinute": 24,
+            "GoalGetterID": 17439,
+            "GoalGetterName": "Aleksandr Zhirov",
+            "IsPenalty": false,
+            "IsOwnGoal": false,
+            "IsOvertime": false,
+            "Comment": null
+        },
+        {
+            "GoalID": 94791,
+            "ScoreTeam1": 2,
+            "ScoreTeam2": 1,
+            "MatchMinute": 55,
+            "GoalGetterID": 18534,
+            "GoalGetterName": "M. Mehlem",
+            "IsPenalty": false,
+            "IsOwnGoal": false,
+            "IsOvertime": false,
+            "Comment": null
+        }
+    ],
+    "Location": null,
+    "NumberOfViewers": null
+}

@@ -1,0 +1,33 @@
+{
+    "MatchID": 63582,
+    "MatchDateTime": "2022-08-07T13:30:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4561,
+    "LeagueName": "2. Fußball-Bundesliga 2022/2023",
+    "MatchDateTimeUTC": "2022-08-07T11:30:00Z",
+    "Group": {
+        "GroupName": "3. Spieltag",
+        "GroupOrderID": 3,
+        "GroupID": 39849
+    },
+    "Team1": {
+        "TeamId": 74,
+        "TeamName": "Eintracht Braunschweig",
+        "ShortName": "Braunschweig",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
+        "TeamGroupName": null
+    },
+    "Team2": {
+        "TeamId": 118,
+        "TeamName": "SV Darmstadt 98",
+        "ShortName": "Darmstadt",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+        "TeamGroupName": null
+    },
+    "LastUpdateDateTime": "2022-06-17T12:46:19.387",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": null,
+    "NumberOfViewers": null
+}

@@ -1,0 +1,1101 @@
+[
+    {
+        "tag01": {
+            "datumUTC": {
+                "_seconds": 1659391200,
+                "_nanoseconds": 0
+            },
+            "datumLocal": "2022-08-02+02:00",
+            "00:00-00:00": {
+                "luftTemperaturMinimum": {
+                    "wert": 17,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "luftdruck": {
+                    "text": null,
+                    "einheit": "hPa",
+                    "wert": 1019
+                },
+                "gueltigBisLokaleZeit": "2022-08-03T00:00:00+02:00",
+                "niederschlagsMenge": {
+                    "text": null,
+                    "einheit": "l/m^2",
+                    "wert": 0
+                },
+                "luftfeuchtigkeitMinimum": {
+                    "wert": 28,
+                    "text": null,
+                    "einheit": "%"
+                },
+                "taupunktMinimum": {
+                    "wert": 10.4,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1659391200,
+                    "_nanoseconds": 0
+                },
+                "windRichtung": {
+                    "wert": 138.70833333333334,
+                    "einheit": "Grad",
+                    "text": "SO"
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "text": null,
+                    "wert": 31,
+                    "einheit": "°"
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "wert": 3,
+                    "text": null,
+                    "einheit": "%"
+                },
+                "wettersymbol": {
+                    "einheit": "CODE",
+                    "wert": 2,
+                    "text": "leicht bewölkt"
+                },
+                "gueltigVonLokaleZeit": "2022-08-02T00:00:00+02:00",
+                "sichtweite": {
+                    "wert": 52000,
+                    "text": null,
+                    "einheit": "m"
+                },
+                "bodenTemperaturMaximum": {
+                    "einheit": "°",
+                    "wert": 35.5,
+                    "text": null
+                },
+                "bewoelkung": {
+                    "text": "mal mehr, mal weniger Wolken",
+                    "wert": 4,
+                    "einheit": "OCTA"
+                },
+                "bodenTemperaturMinimum": {
+                    "text": null,
+                    "wert": 14.7,
+                    "einheit": "°"
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1659477600,
+                    "_nanoseconds": 0
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "wert": 4.3985,
+                    "einheit": "km/h",
+                    "text": null
+                },
+                "luftTemperaturMaximum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 31
+                },
+                "sonnenscheinDauer": {
+                    "wert": 627,
+                    "text": null,
+                    "einheit": "min"
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "wert": 17,
+                    "einheit": "°",
+                    "text": null
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "einheit": "%",
+                    "wert": 83,
+                    "text": null
+                },
+                "taupunktMaximum": {
+                    "text": null,
+                    "wert": 14.6,
+                    "einheit": "°"
+                },
+                "windBoeMaximum": {
+                    "wert": 22.224,
+                    "einheit": "km/h",
+                    "text": null
+                }
+            }
+        },
+        "tag07": {
+            "00:00-00:00": {
+                "luftfeuchtigkeitMaximum": {
+                    "text": null,
+                    "wert": 65,
+                    "einheit": "%"
+                },
+                "taupunktMaximum": {
+                    "wert": 12.1,
+                    "einheit": "°",
+                    "text": null
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1659909600,
+                    "_nanoseconds": 0
+                },
+                "gueltigVonLokaleZeit": "2022-08-08T00:00:00+02:00",
+                "taupunktMinimum": {
+                    "einheit": "°",
+                    "wert": 9.9,
+                    "text": null
+                },
+                "bodenTemperaturMaximum": {
+                    "einheit": "°",
+                    "wert": 31.6,
+                    "text": null
+                },
+                "sonnenscheinDauer": {
+                    "text": null,
+                    "einheit": "min",
+                    "wert": 657
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "text": null,
+                    "wert": 29.217236738335572,
+                    "einheit": "°"
+                },
+                "windBoeMaximum": {
+                    "wert": 24.076,
+                    "text": null,
+                    "einheit": "km/h"
+                },
+                "bodenTemperaturMinimum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 14.4
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "text": null,
+                    "einheit": "km/h",
+                    "wert": 7.485166666666667
+                },
+                "gueltigBisLokaleZeit": "2022-08-09T00:00:00+02:00",
+                "sichtweite": {
+                    "einheit": "m",
+                    "wert": 54500,
+                    "text": null
+                },
+                "luftTemperaturMaximum": {
+                    "wert": 27.2,
+                    "einheit": "°",
+                    "text": null
+                },
+                "luftdruck": {
+                    "wert": 1019.8,
+                    "einheit": "hPa",
+                    "text": null
+                },
+                "windRichtung": {
+                    "wert": 30.125,
+                    "einheit": "Grad",
+                    "text": "NNO"
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1659996000,
+                    "_nanoseconds": 0
+                },
+                "niederschlagsMenge": {
+                    "wert": 0.2,
+                    "einheit": "l/m^2",
+                    "text": null
+                },
+                "wettersymbol": {
+                    "text": "leicht bewölkt",
+                    "wert": 2,
+                    "einheit": "CODE"
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 17.063158498760316
+                },
+                "bewoelkung": {
+                    "einheit": "OCTA",
+                    "text": "gering bewölkt",
+                    "wert": 2.8333333333333335
+                },
+                "luftfeuchtigkeitMinimum": {
+                    "text": null,
+                    "wert": 34,
+                    "einheit": "%"
+                },
+                "luftTemperaturMinimum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 16.8
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "wert": 2,
+                    "einheit": "%",
+                    "text": null
+                }
+            },
+            "datumLocal": "2022-08-08+02:00",
+            "datumUTC": {
+                "_seconds": 1659909600,
+                "_nanoseconds": 0
+            }
+        },
+        "tag09": {
+            "datumUTC": {
+                "_seconds": 1660082400,
+                "_nanoseconds": 0
+            },
+            "00:00-00:00": {
+                "windBoeMaximum": {
+                    "wert": 22.224,
+                    "einheit": "km/h",
+                    "text": null
+                },
+                "luftdruck": {
+                    "text": null,
+                    "einheit": "hPa",
+                    "wert": 1016.1
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1660168800,
+                    "_nanoseconds": 0
+                },
+                "windRichtung": {
+                    "einheit": "Grad",
+                    "text": "O",
+                    "wert": 94.25
+                },
+                "bodenTemperaturMinimum": {
+                    "wert": 16.1,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "gueltigBisLokaleZeit": "2022-08-11T00:00:00+02:00",
+                "luftfeuchtigkeitMinimum": {
+                    "einheit": "%",
+                    "wert": 38,
+                    "text": null
+                },
+                "niederschlagsMenge": {
+                    "einheit": "l/m^2",
+                    "wert": 1.2,
+                    "text": null
+                },
+                "luftTemperaturMinimum": {
+                    "wert": 17.8,
+                    "einheit": "°",
+                    "text": null
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "wert": 2,
+                    "einheit": "%",
+                    "text": null
+                },
+                "sonnenscheinDauer": {
+                    "wert": 557,
+                    "einheit": "min",
+                    "text": null
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1660082400,
+                    "_nanoseconds": 0
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 29.693802054766806
+                },
+                "sichtweite": {
+                    "wert": 49400,
+                    "einheit": "m",
+                    "text": null
+                },
+                "wettersymbol": {
+                    "text": "leicht bewölkt",
+                    "wert": 2,
+                    "einheit": "CODE"
+                },
+                "bewoelkung": {
+                    "wert": 3.5416666666666665,
+                    "einheit": "OCTA",
+                    "text": "leicht bewölkt"
+                },
+                "luftTemperaturMaximum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 27.6
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "text": null,
+                    "wert": 6.790666666666667,
+                    "einheit": "km/h"
+                },
+                "bodenTemperaturMaximum": {
+                    "text": null,
+                    "wert": 32.7,
+                    "einheit": "°"
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "einheit": "%",
+                    "text": null,
+                    "wert": 75
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "text": null,
+                    "wert": 18.323815285445114,
+                    "einheit": "°"
+                },
+                "gueltigVonLokaleZeit": "2022-08-10T00:00:00+02:00",
+                "taupunktMinimum": {
+                    "einheit": "°",
+                    "wert": 12,
+                    "text": null
+                },
+                "taupunktMaximum": {
+                    "wert": 13.9,
+                    "einheit": "°",
+                    "text": null
+                }
+            },
+            "datumLocal": "2022-08-10+02:00"
+        },
+        "ort": {
+            "land": "Deutschland",
+            "typ": "PRIVAT",
+            "name": "Frankfurt am Main",
+            "zeitZone": "Europe/Berlin",
+            "quelle": "MSWR",
+            "plz": null,
+            "bundesLand": "Hessen",
+            "id": "V_MSWR_L_I50153",
+            "landKreis": null,
+            "hoehe": 120,
+            "kontinent": "Europa",
+            "koordinaten": {
+                "_latitude": 50.183333,
+                "_longitude": 8.683333
+            }
+        },
+        "tag05": {
+            "datumUTC": {
+                "_seconds": 1659736800,
+                "_nanoseconds": 0
+            },
+            "datumLocal": "2022-08-06+02:00",
+            "00:00-00:00": {
+                "gueltigBisLokaleZeit": "2022-08-07T00:00:00+02:00",
+                "gueltigVonLokaleZeit": "2022-08-06T00:00:00+02:00",
+                "wettersymbol": {
+                    "einheit": "CODE",
+                    "text": "sonnig",
+                    "wert": 1
+                },
+                "bodenTemperaturMinimum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 15.3
+                },
+                "taupunktMaximum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 13.7
+                },
+                "bodenTemperaturMaximum": {
+                    "text": null,
+                    "wert": 33,
+                    "einheit": "°"
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "text": null,
+                    "wert": 8.256833333333333,
+                    "einheit": "km/h"
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1659823200,
+                    "_nanoseconds": 0
+                },
+                "taupunktMinimum": {
+                    "wert": 9.6,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "sichtweite": {
+                    "text": null,
+                    "einheit": "m",
+                    "wert": 73400
+                },
+                "windRichtung": {
+                    "einheit": "Grad",
+                    "wert": 56.958333333333336,
+                    "text": "ONO"
+                },
+                "luftdruck": {
+                    "einheit": "hPa",
+                    "wert": 1022.8,
+                    "text": null
+                },
+                "sonnenscheinDauer": {
+                    "text": null,
+                    "wert": 614,
+                    "einheit": "min"
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1659736800,
+                    "_nanoseconds": 0
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "text": null,
+                    "wert": 17.431269316160616,
+                    "einheit": "°"
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "einheit": "%",
+                    "text": null,
+                    "wert": 2
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "wert": 29.557654568735416,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "luftTemperaturMinimum": {
+                    "wert": 17.2,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "luftTemperaturMaximum": {
+                    "einheit": "°",
+                    "wert": 27.5,
+                    "text": null
+                },
+                "luftfeuchtigkeitMinimum": {
+                    "einheit": "%",
+                    "wert": 33,
+                    "text": null
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "einheit": "%",
+                    "wert": 74,
+                    "text": null
+                },
+                "niederschlagsMenge": {
+                    "text": null,
+                    "wert": 0,
+                    "einheit": "l/m^2"
+                },
+                "windBoeMaximum": {
+                    "wert": 25.928,
+                    "einheit": "km/h",
+                    "text": null
+                },
+                "bewoelkung": {
+                    "einheit": "OCTA",
+                    "text": "leicht bewölkt",
+                    "wert": 3.1666666666666665
+                }
+            }
+        },
+        "tag02": {
+            "00:00-00:00": {
+                "sonnenscheinDauer": {
+                    "einheit": "min",
+                    "text": null,
+                    "wert": 766
+                },
+                "bodenTemperaturMaximum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 40.8
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "text": null,
+                    "einheit": "%",
+                    "wert": 67
+                },
+                "luftTemperaturMinimum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 19.7
+                },
+                "bewoelkung": {
+                    "wert": 2.5833333333333335,
+                    "einheit": "OCTA",
+                    "text": "gering bewölkt"
+                },
+                "wettersymbol": {
+                    "text": "sonnig",
+                    "wert": 1,
+                    "einheit": "CODE"
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "wert": 19.7,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "taupunktMaximum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 14.4
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "text": null,
+                    "wert": 2,
+                    "einheit": "%"
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "text": null,
+                    "einheit": "km/h",
+                    "wert": 4.8615
+                },
+                "luftfeuchtigkeitMinimum": {
+                    "einheit": "%",
+                    "wert": 23,
+                    "text": null
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1659564000,
+                    "_nanoseconds": 0
+                },
+                "bodenTemperaturMinimum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 17.2
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1659477600,
+                    "_nanoseconds": 0
+                },
+                "taupunktMinimum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 11.4
+                },
+                "windRichtung": {
+                    "wert": 130.41666666666666,
+                    "einheit": "Grad",
+                    "text": "SO"
+                },
+                "luftdruck": {
+                    "einheit": "hPa",
+                    "text": null,
+                    "wert": 1016.4
+                },
+                "sichtweite": {
+                    "text": null,
+                    "wert": 56400,
+                    "einheit": "m"
+                },
+                "gueltigVonLokaleZeit": "2022-08-03T00:00:00+02:00",
+                "luftTemperaturMaximum": {
+                    "text": null,
+                    "wert": 35.7,
+                    "einheit": "°"
+                },
+                "windBoeMaximum": {
+                    "einheit": "km/h",
+                    "wert": 22.224,
+                    "text": null
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "wert": 35.7,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "niederschlagsMenge": {
+                    "einheit": "l/m^2",
+                    "wert": 0,
+                    "text": null
+                },
+                "gueltigBisLokaleZeit": "2022-08-04T00:00:00+02:00"
+            },
+            "datumLocal": "2022-08-03+02:00",
+            "datumUTC": {
+                "_seconds": 1659477600,
+                "_nanoseconds": 0
+            }
+        },
+        "tag06": {
+            "datumLocal": "2022-08-07+02:00",
+            "datumUTC": {
+                "_seconds": 1659823200,
+                "_nanoseconds": 0
+            },
+            "00:00-00:00": {
+                "gefuehlteTemperaturMinimum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 16.42415159378073
+                },
+                "luftdruck": {
+                    "einheit": "hPa",
+                    "text": null,
+                    "wert": 1021.5
+                },
+                "sonnenscheinDauer": {
+                    "text": null,
+                    "einheit": "min",
+                    "wert": 653
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "text": null,
+                    "einheit": "%",
+                    "wert": 68
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "wert": 7.871,
+                    "text": null,
+                    "einheit": "km/h"
+                },
+                "windRichtung": {
+                    "wert": 22.041666666666668,
+                    "text": "NNO",
+                    "einheit": "Grad"
+                },
+                "niederschlagsMenge": {
+                    "einheit": "l/m^2",
+                    "text": null,
+                    "wert": 0
+                },
+                "gueltigVonLokaleZeit": "2022-08-07T00:00:00+02:00",
+                "taupunktMinimum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 8.5
+                },
+                "gueltigBisLokaleZeit": "2022-08-08T00:00:00+02:00",
+                "sichtweite": {
+                    "einheit": "m",
+                    "wert": 72200,
+                    "text": null
+                },
+                "luftfeuchtigkeitMinimum": {
+                    "wert": 31,
+                    "text": null,
+                    "einheit": "%"
+                },
+                "luftTemperaturMaximum": {
+                    "wert": 27.1,
+                    "einheit": "°",
+                    "text": null
+                },
+                "taupunktMaximum": {
+                    "text": null,
+                    "wert": 10.9,
+                    "einheit": "°"
+                },
+                "luftTemperaturMinimum": {
+                    "wert": 16.3,
+                    "einheit": "°",
+                    "text": null
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "einheit": "°",
+                    "wert": 29.093408284687115,
+                    "text": null
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1659909600,
+                    "_nanoseconds": 0
+                },
+                "windBoeMaximum": {
+                    "einheit": "km/h",
+                    "text": null,
+                    "wert": 25.928
+                },
+                "wettersymbol": {
+                    "wert": 1,
+                    "einheit": "CODE",
+                    "text": "sonnig"
+                },
+                "bewoelkung": {
+                    "wert": 2.5833333333333335,
+                    "einheit": "OCTA",
+                    "text": "gering bewölkt"
+                },
+                "bodenTemperaturMinimum": {
+                    "text": null,
+                    "wert": 13.8,
+                    "einheit": "°"
+                },
+                "bodenTemperaturMaximum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 32.1
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "wert": 2,
+                    "text": null,
+                    "einheit": "%"
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1659823200,
+                    "_nanoseconds": 0
+                }
+            }
+        },
+        "erstellungsdatum": {
+            "_seconds": 1659376428,
+            "_nanoseconds": 0
+        },
+        "eingangsdatum": {
+            "_seconds": 1659376038,
+            "_nanoseconds": 0
+        },
+        "tag04": {
+            "datumUTC": {
+                "_seconds": 1659650400,
+                "_nanoseconds": 0
+            },
+            "datumLocal": "2022-08-05+02:00",
+            "00:00-00:00": {
+                "gueltigVonUTC": {
+                    "_seconds": 1659650400,
+                    "_nanoseconds": 0
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 21.36535065445589
+                },
+                "bodenTemperaturMaximum": {
+                    "einheit": "°",
+                    "wert": 35.3,
+                    "text": null
+                },
+                "luftdruck": {
+                    "wert": 1020.1,
+                    "einheit": "hPa",
+                    "text": null
+                },
+                "sonnenscheinDauer": {
+                    "text": null,
+                    "einheit": "min",
+                    "wert": 519
+                },
+                "bewoelkung": {
+                    "text": "leicht bewölkt",
+                    "wert": 3.9166666666666665,
+                    "einheit": "OCTA"
+                },
+                "taupunktMaximum": {
+                    "einheit": "°",
+                    "text": null,
+                    "wert": 16.3
+                },
+                "luftTemperaturMaximum": {
+                    "text": null,
+                    "wert": 30.5,
+                    "einheit": "°"
+                },
+                "bodenTemperaturMinimum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 18.3
+                },
+                "taupunktMinimum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 13.5
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "wert": 7.716666666666668,
+                    "text": null,
+                    "einheit": "km/h"
+                },
+                "gueltigBisLokaleZeit": "2022-08-06T00:00:00+02:00",
+                "luftfeuchtigkeitMinimum": {
+                    "wert": 37,
+                    "text": null,
+                    "einheit": "%"
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "einheit": "%",
+                    "text": null,
+                    "wert": 67
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "einheit": "°",
+                    "wert": 33.07869519215386,
+                    "text": null
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1659736800,
+                    "_nanoseconds": 0
+                },
+                "windRichtung": {
+                    "wert": 205.79166666666666,
+                    "einheit": "Grad",
+                    "text": "SSW"
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "einheit": "%",
+                    "text": null,
+                    "wert": 3
+                },
+                "sichtweite": {
+                    "einheit": "m",
+                    "wert": 64100,
+                    "text": null
+                },
+                "luftTemperaturMinimum": {
+                    "text": null,
+                    "wert": 20.5,
+                    "einheit": "°"
+                },
+                "gueltigVonLokaleZeit": "2022-08-05T00:00:00+02:00",
+                "niederschlagsMenge": {
+                    "wert": 0.9,
+                    "einheit": "l/m^2",
+                    "text": null
+                },
+                "windBoeMaximum": {
+                    "einheit": "km/h",
+                    "text": null,
+                    "wert": 27.78
+                },
+                "wettersymbol": {
+                    "einheit": "CODE",
+                    "wert": 2,
+                    "text": "leicht bewölkt"
+                }
+            }
+        },
+        "tag03": {
+            "00:00-00:00": {
+                "taupunktMaximum": {
+                    "wert": 15.8,
+                    "einheit": "°",
+                    "text": null
+                },
+                "gueltigBisLokaleZeit": "2022-08-05T00:00:00+02:00",
+                "sonnenscheinDauer": {
+                    "text": null,
+                    "wert": 783,
+                    "einheit": "min"
+                },
+                "niederschlagsMenge": {
+                    "text": null,
+                    "einheit": "l/m^2",
+                    "wert": 0.1
+                },
+                "mittlereWindGeschwindigkeit": {
+                    "text": null,
+                    "wert": 5.170166666666667,
+                    "einheit": "km/h"
+                },
+                "gueltigVonLokaleZeit": "2022-08-04T00:00:00+02:00",
+                "windRichtung": {
+                    "wert": 125.83333333333333,
+                    "text": "SO",
+                    "einheit": "Grad"
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1659650400,
+                    "_nanoseconds": 0
+                },
+                "luftdruck": {
+                    "wert": 1014.3,
+                    "einheit": "hPa",
+                    "text": null
+                },
+                "windBoeMaximum": {
+                    "wert": 24.076,
+                    "einheit": "km/h",
+                    "text": null
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "einheit": "%",
+                    "text": null,
+                    "wert": 64
+                },
+                "luftTemperaturMinimum": {
+                    "wert": 21.9,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "bodenTemperaturMaximum": {
+                    "text": null,
+                    "wert": 44.2,
+                    "einheit": "°"
+                },
+                "taupunktMinimum": {
+                    "wert": 12.2,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "text": null,
+                    "wert": 23.236456411269153,
+                    "einheit": "°"
+                },
+                "bewoelkung": {
+                    "text": "gering bewölkt",
+                    "einheit": "OCTA",
+                    "wert": 2.125
+                },
+                "luftTemperaturMaximum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 37.6
+                },
+                "bodenTemperaturMinimum": {
+                    "einheit": "°",
+                    "wert": 19.7,
+                    "text": null
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1659564000,
+                    "_nanoseconds": 0
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 41.090622944695156
+                },
+                "wettersymbol": {
+                    "einheit": "CODE",
+                    "text": "sonnig",
+                    "wert": 1
+                },
+                "sichtweite": {
+                    "einheit": "m",
+                    "wert": 74200,
+                    "text": null
+                },
+                "luftfeuchtigkeitMinimum": {
+                    "text": null,
+                    "einheit": "%",
+                    "wert": 22
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "einheit": "%",
+                    "text": null,
+                    "wert": 2
+                }
+            },
+            "datumLocal": "2022-08-04+02:00",
+            "datumUTC": {
+                "_seconds": 1659564000,
+                "_nanoseconds": 0
+            }
+        },
+        "mosmixmodell": "gfs12_ez00_gea06",
+        "tag08": {
+            "datumUTC": {
+                "_seconds": 1659996000,
+                "_nanoseconds": 0
+            },
+            "datumLocal": "2022-08-09+02:00",
+            "00:00-00:00": {
+                "luftfeuchtigkeitMinimum": {
+                    "wert": 35,
+                    "einheit": "%",
+                    "text": null
+                },
+                "bodenTemperaturMaximum": {
+                    "einheit": "°",
+                    "wert": 32.6,
+                    "text": null
+                },
+                "niederschlagsWahrscheinlichkeit": {
+                    "einheit": "%",
+                    "wert": 2,
+                    "text": null
+                },
+                "niederschlagsMenge": {
+                    "text": null,
+                    "wert": 0.5,
+                    "einheit": "l/m^2"
+                },
+                "luftTemperaturMaximum": {
+                    "wert": 28,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "wettersymbol": {
+                    "wert": 2,
+                    "text": "leicht bewölkt",
+                    "einheit": "CODE"
+                },
+                "gefuehlteTemperaturMaximum": {
+                    "wert": 30.158548359926314,
+                    "einheit": "°",
+                    "text": null
+                },
+                "gefuehlteTemperaturMinimum": {
+                    "wert": 17.986753432550337,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "windRichtung": {
+                    "wert": 38.125,
+                    "einheit": "Grad",
+                    "text": "NO"
+                },
+                "luftdruck": {
+                    "einheit": "hPa",
+                    "wert": 1017.8,
+                    "text": null
+                },
+                "taupunktMinimum": {
+                    "wert": 11.1,
+                    "einheit": "°",
+                    "text": null
+                },
+                "gueltigVonLokaleZeit": "2022-08-09T00:00:00+02:00",
+                "sonnenscheinDauer": {
+                    "einheit": "min",
+                    "text": null,
+                    "wert": 611
+                },
+                "luftfeuchtigkeitMaximum": {
+                    "text": null,
+                    "wert": 72,
+                    "einheit": "%"
+                },
+                "taupunktMaximum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 13
+                },
+                "windBoeMaximum": {
+                    "einheit": "km/h",
+                    "text": null,
+                    "wert": 24.076
+                },
+                "gueltigBisUTC": {
+                    "_seconds": 1660082400,
+                    "_nanoseconds": 0
+                },
+                "gueltigBisLokaleZeit": "2022-08-10T00:00:00+02:00",
+                "mittlereWindGeschwindigkeit": {
+                    "text": null,
+                    "wert": 6.713500000000001,
+                    "einheit": "km/h"
+                },
+                "bewoelkung": {
+                    "wert": 3.25,
+                    "einheit": "OCTA",
+                    "text": "leicht bewölkt"
+                },
+                "bodenTemperaturMinimum": {
+                    "wert": 15.8,
+                    "text": null,
+                    "einheit": "°"
+                },
+                "luftTemperaturMinimum": {
+                    "text": null,
+                    "einheit": "°",
+                    "wert": 17.5
+                },
+                "sichtweite": {
+                    "wert": 49700,
+                    "text": null,
+                    "einheit": "m"
+                },
+                "gueltigVonUTC": {
+                    "_seconds": 1659996000,
+                    "_nanoseconds": 0
+                }
+            }
+        }
+    }
+]

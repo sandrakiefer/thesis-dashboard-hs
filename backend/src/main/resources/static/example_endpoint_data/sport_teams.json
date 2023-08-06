@@ -1,0 +1,128 @@
+[
+    {
+        "TeamId": 199,
+        "TeamName": "1. FC Heidenheim 1846",
+        "ShortName": "Heidenheim",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/830px-1._FC_Heidenheim_1846.svg.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 76,
+        "TeamName": "1. FC Kaiserslautern",
+        "ShortName": "K'Lautern",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 78,
+        "TeamName": "1. FC Magdeburg",
+        "ShortName": "FCM",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/210px-1._FC_Magdeburg.svg.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 79,
+        "TeamName": "1. FC Nürnberg",
+        "ShortName": "Nürnberg",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 83,
+        "TeamName": "Arminia Bielefeld",
+        "ShortName": "Bielefeld",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 74,
+        "TeamName": "Eintracht Braunschweig",
+        "ShortName": "Braunschweig",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 102,
+        "TeamName": "FC Hansa Rostock",
+        "ShortName": "Rostock",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/FC_Hansa_Logo_seit_2009.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 98,
+        "TeamName": "FC St. Pauli",
+        "ShortName": "St. Pauli",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/FC_St._Pauli_logo.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 185,
+        "TeamName": "Fortuna Düsseldorf",
+        "ShortName": "Düsseldorf",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 100,
+        "TeamName": "Hamburger SV",
+        "ShortName": "HSV",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 55,
+        "TeamName": "Hannover 96",
+        "ShortName": "Hannover",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 104,
+        "TeamName": "Holstein Kiel",
+        "ShortName": "Kiel",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/300px-Holstein_Kiel_Logo.svg.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 181,
+        "TeamName": "Jahn Regensburg",
+        "ShortName": "Jahn",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/204px-Jahn_Regensburg_logo2014.svg.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 105,
+        "TeamName": "Karlsruher SC",
+        "ShortName": "Karlsruhe",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 31,
+        "TeamName": "SC Paderborn 07",
+        "ShortName": "Paderborn",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 115,
+        "TeamName": "SpVgg Greuther Fürth",
+        "ShortName": "Fürth",
+        "TeamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 118,
+        "TeamName": "SV Darmstadt 98",
+        "ShortName": "Darmstadt",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+        "TeamGroupName": null
+    },
+    {
+        "TeamId": 119,
+        "TeamName": "SV Sandhausen",
+        "ShortName": "Sandhausen",
+        "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SV_Sandhausen.svg",
+        "TeamGroupName": null
+    }
+]

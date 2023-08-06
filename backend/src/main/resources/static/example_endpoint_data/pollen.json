@@ -1,0 +1,344 @@
+[
+    {
+        "eingangsdatum": {
+            "_seconds": 1659344400,
+            "_nanoseconds": 0
+        },
+        "ort": {
+            "landKreis": null,
+            "id": null,
+            "bundesLand": "Hessen",
+            "kontinent": "Europa",
+            "hoehe": null,
+            "zeitZone": null,
+            "land": null,
+            "plz": null,
+            "quelle": null,
+            "name": "Hessen",
+            "typ": null,
+            "koordinaten": null
+        },
+        "nameOfWarnFileType": "Pollenflug-Gefahrenindex für Deutschland ausgegeben vom Deutschen Wetterdienst",
+        "erstellungsdatum": {
+            "_seconds": 1659345300,
+            "_nanoseconds": 0
+        },
+        "dataProvider": "Deutscher Wetterdienst - Medizin-Meteorologie",
+        "regionen": [
+            {
+                "pollen": [
+                    {
+                        "name": "Beifuss",
+                        "tag01": {
+                            "belastungsstufe": {
+                                "index": "1-2",
+                                "indexAsString": "geringe bis mittlere Belastung"
+                            }
+                        },
+                        "tag00": {
+                            "belastungsstufe": {
+                                "indexAsString": "geringe bis mittlere Belastung",
+                                "index": "1-2"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            }
+                        }
+                    },
+                    {
+                        "tag00": {
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            }
+                        },
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        },
+                        "name": "Esche"
+                    },
+                    {
+                        "tag00": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            }
+                        },
+                        "name": "Erle",
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Hasel",
+                        "tag00": {
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            },
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            }
+                        },
+                        "tag01": {
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            }
+                        }
+                    },
+                    {
+                        "tag00": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            }
+                        },
+                        "name": "Roggen",
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Graeser",
+                        "tag00": {
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            },
+                            "belastungsstufe": {
+                                "indexAsString": "geringe bis mittlere Belastung",
+                                "index": "1-2"
+                            }
+                        },
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "geringe bis mittlere Belastung",
+                                "index": "1-2"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Birke",
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        },
+                        "tag00": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            }
+                        }
+                    },
+                    {
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine bis geringe Belastung",
+                                "index": "0-1"
+                            }
+                        },
+                        "name": "Ambrosia",
+                        "tag00": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine bis geringe Belastung",
+                                "index": "0-1"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            }
+                        }
+                    }
+                ],
+                "name": "Nordhessen und hess. Mittelgebirge"
+            },
+            {
+                "pollen": [
+                    {
+                        "tag00": {
+                            "belastungsstufe": {
+                                "index": "2",
+                                "indexAsString": "mittlere Belastung"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            }
+                        },
+                        "tag01": {
+                            "belastungsstufe": {
+                                "index": "2",
+                                "indexAsString": "mittlere Belastung"
+                            }
+                        },
+                        "name": "Beifuss"
+                    },
+                    {
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        },
+                        "tag00": {
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            }
+                        },
+                        "name": "Esche"
+                    },
+                    {
+                        "tag00": {
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            },
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        },
+                        "name": "Erle",
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Ambrosia",
+                        "tag00": {
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            },
+                            "belastungsstufe": {
+                                "indexAsString": "keine bis geringe Belastung",
+                                "index": "0-1"
+                            }
+                        },
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine bis geringe Belastung",
+                                "index": "0-1"
+                            }
+                        }
+                    },
+                    {
+                        "tag00": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            }
+                        },
+                        "tag01": {
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            }
+                        },
+                        "name": "Roggen"
+                    },
+                    {
+                        "name": "Hasel",
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "keine Belastung",
+                                "index": "0"
+                            }
+                        },
+                        "tag00": {
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            },
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            }
+                        }
+                    },
+                    {
+                        "tag01": {
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            }
+                        },
+                        "name": "Birke",
+                        "tag00": {
+                            "tendenz_tag00_tag01": {
+                                "wertAsString": "gleichbleibend",
+                                "wert": 0
+                            },
+                            "belastungsstufe": {
+                                "index": "0",
+                                "indexAsString": "keine Belastung"
+                            }
+                        }
+                    },
+                    {
+                        "tag00": {
+                            "belastungsstufe": {
+                                "indexAsString": "geringe Belastung",
+                                "index": "1"
+                            },
+                            "tendenz_tag00_tag01": {
+                                "wert": 0,
+                                "wertAsString": "gleichbleibend"
+                            }
+                        },
+                        "tag01": {
+                            "belastungsstufe": {
+                                "indexAsString": "geringe Belastung",
+                                "index": "1"
+                            }
+                        },
+                        "name": "Graeser"
+                    }
+                ],
+                "name": "Rhein-Main"
+            }
+        ]
+    }
+]
