@@ -1,0 +1,76 @@
+{
+    "traffic": [
+      {
+        "streetName": "A3",
+        "symbol": "Warnung",
+        "directionFrom": "Frankfurt",
+        "directionTo": "Köln",
+        "desription": "zwischen Wiesbadener Kreuz und Wiesbaden/Niedernhausen",
+        "bothDirections": false
+      },
+      {
+        "streetName": "A3",
+        "symbol": "Stau",
+        "directionFrom": "Frankfurt",
+        "directionTo": "Köln",
+        "desription": "zwischen Idstein und Bad Camberg",
+        "bothDirections": false
+      },
+      {
+        "streetName": "A5",
+        "symbol": "Sperrung",
+        "directionFrom": "Kassel",
+        "directionTo": "Frankfurt",
+        "desription": "zwischen A5 und A661",
+        "bothDirections": false
+      },
+      {
+        "streetName": "A66",
+        "symbol": "Sperrung",
+        "directionFrom": "Wiesbaden",
+        "directionTo": "Frankfurt",
+        "desription": "zwischen Schiersteiner Kreuz und Wiesbaden-Biebrich",
+        "bothDirections": false
+      },
+      {
+        "streetName": "A66",
+        "symbol": "Sperrung",
+        "directionFrom": "Wiesbaden",
+        "directionTo": "Frankfurt",
+        "desription": "zwischen Wiesbaden-Biebrich und Wiesbaden-Mainzer Straße",
+        "bothDirections": true
+      },
+      {
+        "streetName": "B40",
+        "symbol": "Sperrung",
+        "directionFrom": "Ostend",
+        "directionTo": "Riederwald",
+        "desription": "zwischen Frankfurt am Main-Ost und A661, Frankfurt am Main-Ost",
+        "bothDirections": true
+      },
+      {
+        "streetName": "B40",
+        "symbol": "Sperrung",
+        "directionFrom": "Schwanheimer Knoten",
+        "directionTo": "Frankfurt Flughafen",
+        "desription": "bei B40",
+        "bothDirections": false
+      },
+      {
+        "streetName": "B42",
+        "symbol": "Sperrung",
+        "directionFrom": "Wiesbaden",
+        "directionTo": "Rüdesheim",
+        "desription": "zwischen Rüdesheim am Rhein und Kaiserstraße",
+        "bothDirections": false
+      },
+      {
+        "streetName": "B457",
+        "symbol": "Sperrung",
+        "directionFrom": "Gelnhausen",
+        "directionTo": "Nidda",
+        "desription": "zwischen L3271 und An der Saline",
+        "bothDirections": true
+      }
+    ]
+}

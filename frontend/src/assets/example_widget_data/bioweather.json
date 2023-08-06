@@ -1,0 +1,38 @@
+{
+    "categories": [
+      {
+        "name": "Allgemeine Befinden",
+        "effects": [
+          "hohe Gefährdung",
+          "schonendes Verhalten, Aufenthalt im Freien mittags und  nachmittags vermeiden, ausreichende Flüssigkeitszufuhr, leichte Kost, Vorsicht im Straßenverkehr",
+          " erhöhte Fürsorge für ältere Menschen und Kinder"
+        ]
+      },
+      {
+        "name": "Asthma",
+        "effects": [
+          "geringe Gefährdung",
+          "Aufenthalt im Freien mittags und nachmittags vermeiden, ausreichende Flüssigkeitszufuhr, leichte Kost, Vorsicht im Straßenverkehr",
+          " erhöhte Fürsorge für ältere Menschen und Kinder"
+        ]
+      },
+      {
+        "name": "Herz- und Kreislaufgeschehen",
+        "effects": [
+          "hohe Gefährdung (hypotone Form)",
+          "hohe Gefährdung (hypertone Form)",
+          "schonendes Verhalten, Aufenthalt im Freien mittags und  nachmittags vermeiden, ausreichende Flüssigkeitszufuhr, leichte Kost, Vorsicht im Straßenverkehr",
+          " erhöhte Fürsorge für ältere Menschen und Kinder"
+        ]
+      },
+      {
+        "name": "Rheumatische Beschwerden",
+        "effects": [
+          "hohe Gefährdung (entzündliche Form)",
+          "kein Einfluss (degenerative Form)",
+          "schonendes Verhalten bei entzündlichem Rheuma,  Aufenthalt im Freien mittags und nachmittags vermeiden, ausreichende Flüssigkeitszufuhr, leichte Kost, Vorsicht im Straßenverkehr",
+          " erhöhte Fürsorge für ältere Menschen und Kinder"
+        ]
+      }
+    ]
+}

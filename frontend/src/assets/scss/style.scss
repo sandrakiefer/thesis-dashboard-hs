@@ -1,0 +1,108 @@
+@import "variables";
+
+html {
+    background-color: $hsblue;
+}
+
+hr {
+    margin-top:0.7rem !important; 
+    margin-bottom:0.5rem !important;
+}
+
+div[class*="Widget"] {
+    background-color: transparent !important;
+}
+
+.settingsHeadline {
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.modal-content {
+    border: none !important;
+    border-radius: 1.5rem !important;
+    background-color: $hslightblue !important;
+}
+
+.modal-header {
+    background-color: $hslightblue;
+    border-bottom-color: $accentgray !important;
+    border-bottom-width: 0.2rem !important;
+}
+
+.modal-body {
+    background-color: $hslightblue;
+}
+
+.modal-footer {
+    background-color: $hslightblue;
+    border-top-color: $accentgray !important;
+    border-top-width: 0.2rem !important;
+}
+
+.headline {
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.8rem;
+}
+
+.smallText {
+    font-size: 0.8rem;
+}
+
+.extraSmallText {
+    font-size: 0.7rem;
+}
+
+.iconTop {
+    height: 3.5rem;
+    color: $accentgray;
+}
+
+.warning {
+    font-style: italic;
+}
+
+.btn-primary {
+    background-color: $hsblue !important;
+    border-color: $hsblue !important;
+    font-family: DIN, sans-serif;
+}
+
+.btn-success {
+    background-color: green !important;
+}
+
+.validationText {
+    color: red;
+    font-size: 0.7rem;
+    padding: 0;
+}
+
+.validationInput {
+    border-color: red !important;
+}
+
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.btn:active {
+      transform: translateY(0.125rem);
+      box-shadow: 0 0.125rem;
+}
+
+.sweetAlert2 {
+    font-family: DIN, sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: normal !important;
+}
+
+.swal2-popup {
+    font-size: 1rem !important;
+    background-color: $hslightblue !important;
+    font-family: DIN, sans-serif;
+}

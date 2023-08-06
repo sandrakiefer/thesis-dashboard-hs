@@ -1,0 +1,23 @@
+$hsblue: #005293;
+$hslightblue: #D8E9F6;
+$accentgray: #C4C4C4;
+
+@font-face {
+    font-family: 'DIN', 'sans-serif';
+    font-weight: normal;
+    font-style: normal;
+    src: url('@/assets/fonts/DINPro.woff');
+}
+
+@font-face {
+    font-family: 'DIN', 'sans-serif';
+    font-weight: bold;
+    font-style: normal;
+    src: url('@/assets/fonts/DINPro-Bold.woff');
+}
+
+:export {
+    hsblue: $hsblue;
+    hslightblue: $hslightblue;
+    accentgray: $accentgray;
+}

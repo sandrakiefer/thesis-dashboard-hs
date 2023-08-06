@@ -1,0 +1,45 @@
+{
+    "location": "Frankfurt am Main",
+    "pollution": [
+      {
+        "name": "Ambrosia",
+        "today": 0,
+        "tomorrow": 0
+      },
+      {
+        "name": "Beifuß",
+        "today": 1,
+        "tomorrow": 1
+      },
+      {
+        "name": "Birke",
+        "today": 0,
+        "tomorrow": 0
+      },
+      {
+        "name": "Erle",
+        "today": 0,
+        "tomorrow": 0
+      },
+      {
+        "name": "Esche",
+        "today": 0,
+        "tomorrow": 0
+      },
+      {
+        "name": "Gräser",
+        "today": 2,
+        "tomorrow": 2
+      },
+      {
+        "name": "Hasel",
+        "today": 0,
+        "tomorrow": 0
+      },
+      {
+        "name": "Roggen",
+        "today": 0,
+        "tomorrow": 0
+      }
+    ]
+}
