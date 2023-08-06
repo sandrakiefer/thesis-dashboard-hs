@@ -1,4 +1,4 @@
-# Frontend hs-Dashboard
+# Code zum hs-Dashboard aus meiner Bachelorarbeit
 
 Hochschule RheinMain - Medieninformatik - Bachelorarbeit (September 2022) von Sandra Kiefer
 
